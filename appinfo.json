@@ -1,0 +1,11 @@
+{
+	"id": "com.nyt.movies",
+	"version": "1.0.0",
+	"vendor": "NYT",
+	"type": "web",
+	"main": "index.html",
+	"title": "movies",
+	"icon": "icon.png",
+  "apikey": "9503cb3e7aafb4e144fb07a2753bf5b5:7:1410811",
+  "target": "http://api.nytimes.com/svc/movies/v2/reviews/picks.json?api-key=" 
+}

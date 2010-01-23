@@ -1,0 +1,5 @@
+function MovieList() {
+	this.items = [];
+
+}
+
