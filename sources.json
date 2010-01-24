@@ -66,9 +66,6 @@
     "source": "plugins\/pockets-testing\/app\/lib\/pockets-fake-stage-controller.js"
   },
   {
-    "source": "test\/app\/assistants\/sample-assistant-test.js"
-  },
-  {
     "source": "test\/app\/models\/movie-list-test.js"
   }
 ]
